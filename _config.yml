@@ -111,7 +111,7 @@ author:
       # url: "k2@"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://k2.github.io"
+      url: "https://k2boys.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -136,7 +136,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/k2"
+      url: "https://github.com/k2boys"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
