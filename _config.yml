@@ -20,14 +20,14 @@ after_footer_scripts:
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "k2boys"
+title                    : "k2"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "k2boys"
+name                     : "k2"
 description              : "개발 공부하기"
-url                      : "https://k2boys.github.io"
+url                      : "https://k2.github.io"
 baseurl                  : # the subpath of your site, e.g. "/ElasticSearch"
-repository               : "etch-cure/k2boys.github.io"
+repository               : "etch-cure/k2.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -100,7 +100,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "k2boys"
+  name             : "k2"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
   location         : "South Korea"
@@ -108,10 +108,10 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "k2boys@"
+      # url: "k2@"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://k2boys.github.io"
+      url: "https://k2.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -120,7 +120,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/k2boys"
+      url: "https://github.com/k2"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -136,7 +136,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/k2boys"
+      url: "https://github.com/k2"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:

@@ -17,9 +17,9 @@ main:
   #  url: todo
 
 series:
-  - title: 시리즈
+  - title: 심층학습
     children: 
-      - title: 블로그 운영
+      - title: 엘라스틱서치
         url: /series/ElasticSearch/
       - title: Spring Boot
-        url: /series/effective_cpp/
+        url: /series/spring_boot/
