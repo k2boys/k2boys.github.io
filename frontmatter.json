@@ -1,0 +1,16 @@
+{
+  "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.content.pageFolders": [
+    {
+      "title": "_posts",
+      "path": "./_posts"
+    },
+    {
+      "title": "reveiw",
+      "path": "d:/code/블로그/_posts/reveiw"
+    }
+  ],
+  "frontMatter.content.autoUpdateDate": true,
+  "frontMatter.content.fmHighlight": false,
+  "frontMatter.preview.host": "http://127.0.0.1:4000/"
+}

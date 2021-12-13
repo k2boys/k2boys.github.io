@@ -1,9 +1,11 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://11/
-  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
+  - title: "심층학습"
+    url: series
+  - title: "카테고리"
+    url: categories
+  - title: "About"
+    url: about
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
@@ -11,3 +13,13 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+  # - title: "ToDo"
+  #  url: todo
+
+series:
+  - title: 시리즈
+    children: 
+      - title: 블로그 운영
+        url: /series/ElasticSearch/
+      - title: Spring Boot
+        url: /series/effective_cpp/
