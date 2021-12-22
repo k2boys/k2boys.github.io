@@ -13,7 +13,7 @@ categories: sql_developer
 
 ### 1. fusionblue.jar 다운로드
 
-[다운로드] (https://github.com/rhinterndorfer/OracleSqlDeveloper_Theme/releases) 
+[다운로드](https://github.com/rhinterndorfer/OracleSqlDeveloper_Theme/releases) 
 
 
 
@@ -31,4 +31,4 @@ D:\sqldeveloper설치경로\ide\themes 에 복사
 
 
 
-침고 : https://medium.com/@rammelhofdotat/oracle-sql-developer-theme-7c870ce19fb5
+참고 : <a href="https://medium.com/@rammelhofdotat/oracle-sql-developer-theme-7c870ce19fb5">https://medium.com/@rammelhofdotat/oracle-sql-developer-theme-7c870ce19fb5</a>

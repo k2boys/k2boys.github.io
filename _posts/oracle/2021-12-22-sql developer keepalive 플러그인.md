@@ -13,9 +13,8 @@ categories: sql_developer
 
 ### 1. 플러그인 설치
 
-프로젝트 홈 페이지: https://scristalli.github.io/SQL-Developer-4-keepalive/
-
-플러그인 다운로드 페이지: https://github.com/scristalli/SQL-Developer-4-keepalive/releases
+[프로젝트 홈 페이지](https://scristalli.github.io/SQL-Developer-4-keepalive/)
+[플러그인 다운로드 페이지](https://github.com/scristalli/SQL-Developer-4-keepalive/releases)
 
 
 
@@ -31,4 +30,4 @@ categories: sql_developer
 
 
 
-침고 : http://taewan.kim/oratips/sqldeveloper-keepalive/
+참고 : <a href="http://taewan.kim/oratips/sqldeveloper-keepalive/">http://taewan.kim/oratips/sqldeveloper-keepalive/</a>
