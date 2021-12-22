@@ -25,7 +25,6 @@ D:\sqldeveloper설치경로\ide\themes 에 복사
 
 <p>
   <img data-action="zoom" src="https://miro.medium.com/max/700/1*jR-woAzyFls4nIKSwbfTsg.png" alt="Image Alt 텍스트">
-  <em>여기에 캡션을 작성합니다.</em>
 </p>
 
 
